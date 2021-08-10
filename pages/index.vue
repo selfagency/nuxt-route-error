@@ -5,5 +5,6 @@
 <script>
 export default {
   name: 'Index',
+  layout: 'default',
 }
 </script>
